@@ -1,0 +1,863 @@
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:48: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:49: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:50: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:51: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:52: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:53: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:54: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:55: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:56: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:57: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:58: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:13:59: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:00: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:01: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:02: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:03: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:04: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:05: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:06: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:07: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:08: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:09: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:10: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:11: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:12: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:13: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:14: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+29-03-2025 13:14:14: SQL Error: Invalid column name 'msg_id'.
+Invalid column name 'user_id'.
+Invalid column name 'sent_at'.
+30-03-2025 17:46:21: SQL Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+30-03-2025 18:27:09: SQL Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)

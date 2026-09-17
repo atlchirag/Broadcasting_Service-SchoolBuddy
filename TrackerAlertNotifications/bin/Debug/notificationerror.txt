@@ -1,0 +1,414 @@
+29-03-2025 13:13:48: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:49: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:49: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:49: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:49: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:49: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:49: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:49: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:50: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:50: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:50: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:50: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:50: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:50: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:50: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:51: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:51: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:51: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:51: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:51: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:51: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:52: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:52: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:52: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:52: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:52: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:52: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:53: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:53: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:53: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:53: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:53: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:53: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:54: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:54: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:54: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:54: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:54: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:55: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:55: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:55: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:55: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:55: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:55: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:56: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:57: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:57: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:57: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:57: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:57: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:57: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:58: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:59: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:59: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:59: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:59: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:13:59: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:13:59: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:00: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:00: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:00: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:00: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:00: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:00: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:00: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:01: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:01: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:01: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:01: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:01: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:01: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:02: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:02: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:02: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:02: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:02: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:02: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:02: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:03: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:03: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:03: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:03: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:03: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:03: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:04: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:05: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:05: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:05: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:05: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:05: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:06: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:07: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:07: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:07: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:07: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:07: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:08: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:09: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:09: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:09: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:09: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:09: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:09: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:10: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:10: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:10: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:10: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:10: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:10: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:10: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:11: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:11: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:11: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:11: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:11: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:11: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:11: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:12: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:12: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:12: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:12: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:12: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:12: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:12: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:13: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:13: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:13: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:13: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:13: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:13: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:13: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:14: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:14: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:14: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:14: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:14: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:14: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:14: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:15: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:15: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:15: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:15: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:15: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:15: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:16: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:16: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:16: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:16: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:16: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:17: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:17: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:17: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:17: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:17: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:18: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:19: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:19: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:19: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:19: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:19: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:19: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:19: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:20: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:20: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:20: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:20: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:20: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:20: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:20: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:21: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:21: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:21: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:21: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:21: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:21: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:21: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:22: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:22: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:22: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:22: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:22: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:23: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:23: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:23: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:24: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:24: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:24: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:24: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:24: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:24: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:25: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:25: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:25: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:25: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:25: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:26: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:26: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:26: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:26: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:26: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:27: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:27: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:27: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:27: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:27: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:27: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:27: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:28: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:28: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:28: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:28: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:28: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:28: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:28: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:28: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:28: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:29: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:29: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:29: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:29: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:29: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:29: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:30: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:30: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:30: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:30: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:31: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:31: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:31: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:31: Notification Error: 3094: Test message only. Please ignore it. - The registration token is not a valid FCM registration token
+29-03-2025 13:14:31: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:31: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:31: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:31: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:32: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:32: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:32: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:32: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:32: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:32: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:32: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:32: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:33: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:33: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:33: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:33: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:34: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:34: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:34: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:34: Notification Error: 5415: HHHHH - Requested entity was not found.
+29-03-2025 13:14:34: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:35: Notification Error: 5415: HHHHH - Requested entity was not found.
+29-03-2025 13:14:35: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:35: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:35: Notification Error: 5415: HHHHH - Requested entity was not found.
+29-03-2025 13:14:35: Notification Error: 5415: HHHHH - SenderId mismatch
+29-03-2025 13:14:35: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:35: Notification Error: 17666: Due to technical reason bus route 25 will late by 10 minutes .
+Regards team vis-10. - SenderId mismatch
+29-03-2025 13:14:35: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:36: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:36: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:36: Notification Error: 17666: Due to heavy rain all jounior route will be late by 20 to 25 minutes today afternoon.
+Regards
+Team vis-10. - SenderId mismatch
+29-03-2025 13:14:36: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:36: Notification Error: 17666: Route no.25 update contact no. 9289878025
+ - SenderId mismatch
+29-03-2025 13:14:36: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:36: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:37: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:37: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:37: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:37: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:37: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:37: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:38: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:38: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:38: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - SenderId mismatch
+29-03-2025 13:14:38: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:38: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:38: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:38: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:39: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:39: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:39: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:39: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - SenderId mismatch
+29-03-2025 13:14:39: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:39: Notification Error: 3094: Test message only. Please ignore it. - Requested entity was not found.
+29-03-2025 13:14:40: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:40: Notification Error: 17666: Dear Parents
+As per DOE order, the school will remain closed today i.e. 1st August.
+Team VIS - Requested entity was not found.
+29-03-2025 13:14:40: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.
+29-03-2025 13:14:40: Notification Error: 3094: Test message only. Please ignore it. - SenderId mismatch
+29-03-2025 13:14:40: Notification Error: 3094: All students are come back. Parent kindly be on stop to receive your ward,
+
+Please call to route mobile and transport in charge. - Requested entity was not found.

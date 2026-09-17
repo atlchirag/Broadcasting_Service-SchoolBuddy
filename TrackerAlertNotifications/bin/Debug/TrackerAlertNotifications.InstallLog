@@ -1,0 +1,124 @@
+﻿Installing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Installing service serviceSendNotification_New...
+Service serviceSendNotification_New has been successfully installed.
+Creating EventLog source serviceSendNotification_New in log Application...
+Committing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Uninstalling assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Removing EventLog source serviceSendNotification_New.
+Service serviceSendNotification_New is being removed from the system...
+Service serviceSendNotification_New was successfully removed from the system.
+Attempt to stop service serviceSendNotification_New.
+Installing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Installing service serviceSendNotification_New...
+Service serviceSendNotification_New has been successfully installed.
+Creating EventLog source serviceSendNotification_New in log Application...
+Committing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Uninstalling assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Removing EventLog source serviceSendNotification_New.
+Service serviceSendNotification_New is being removed from the system...
+Service serviceSendNotification_New was successfully removed from the system.
+Attempt to stop service serviceSendNotification_New.
+Installing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Installing service serviceSendNotification_New...
+Service serviceSendNotification_New has been successfully installed.
+Creating EventLog source serviceSendNotification_New in log Application...
+Committing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Uninstalling assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Removing EventLog source serviceSendNotification_New.
+Service serviceSendNotification_New is being removed from the system...
+Service serviceSendNotification_New was successfully removed from the system.
+Installing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Installing service serviceSendNotification_New...
+Service serviceSendNotification_New has been successfully installed.
+Creating EventLog source serviceSendNotification_New in log Application...
+Committing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Uninstalling assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Removing EventLog source BroadcastNotificationService.
+Warning: The source BroadcastNotificationService is not registered on the local machine.
+Service BroadcastNotificationService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Installing service BroadcastNotificationService...
+Service BroadcastNotificationService has been successfully installed.
+Creating EventLog source BroadcastNotificationService in log Application...
+Committing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Uninstalling assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Removing EventLog source BroadcastNotificationService.
+Service BroadcastNotificationService is being removed from the system...
+Service BroadcastNotificationService was successfully removed from the system.
+Attempt to stop service BroadcastNotificationService.
+Installing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog
+Installing service BroadcastNotificationService...
+Service BroadcastNotificationService has been successfully installed.
+Creating EventLog source BroadcastNotificationService in log Application...
+Committing assembly 'E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+   logfile = E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.InstallLog

@@ -1,0 +1,196 @@
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csprojResolveAssemblyReference.cache
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csprojAssemblyReference.cache
+D:\Abhishek Projects\SVN\Abhishek\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+F:\Software\Dotnet\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+F:\Software\Dotnet\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+F:\Software\Dotnet\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+F:\Software\Dotnet\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+F:\Software\Dotnet\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+F:\Software\Dotnet\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+F:\Software\Dotnet\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+C:\Users\user\Desktop\TrackerAlertNotifications_new\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+C:\Users\Gaurav Sharma\Desktop\GauravSVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+C:\Users\Gaurav Sharma\Desktop\GauravSVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+C:\Users\Gaurav Sharma\Desktop\GauravSVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+C:\Users\Gaurav Sharma\Desktop\GauravSVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+C:\Users\Gaurav Sharma\Desktop\GauravSVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav Sharma\Desktop\GauravSVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+C:\Users\Gaurav Sharma\Desktop\GauravSVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+C:\Users\Gaurav Sharma\Desktop\SVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+C:\Users\Gaurav Sharma\Desktop\SVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+C:\Users\Gaurav Sharma\Desktop\SVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+C:\Users\Gaurav Sharma\Desktop\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+C:\Users\Gaurav Sharma\Desktop\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav Sharma\Desktop\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+C:\Users\Gaurav Sharma\Desktop\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Buffers.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Memory.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.dll
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Buffers.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Memory.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.xml
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerA.1BF1959A.Up2Date
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+E:\Gaurav Sharma\SVN\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Buffers.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Memory.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.dll
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Buffers.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Memory.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.xml
+E:\Gaurav Sharma\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+E:\Gaurav Sharma\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+E:\Gaurav Sharma\service\TrackerAlertNotifications\obj\Debug\TrackerA.1BF1959A.Up2Date
+E:\Gaurav Sharma\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+E:\Gaurav Sharma\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\FirebaseAdmin.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.Rest.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Auth.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Core.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Newtonsoft.Json.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Buffers.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.CodeDom.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Collections.Immutable.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Memory.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.dll
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\FirebaseAdmin.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.pdb
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.Rest.pdb
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.Rest.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.pdb
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Auth.pdb
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Auth.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Core.pdb
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Core.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Newtonsoft.Json.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Buffers.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.CodeDom.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Collections.Immutable.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Memory.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.xml
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerA.1BF1959A.Up2Date
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+E:\Gaurav Sharma\GauravSVN\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe.config
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.exe
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\TrackerAlertNotifications.pdb
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\FirebaseAdmin.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.Rest.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Auth.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Core.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Newtonsoft.Json.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Buffers.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.CodeDom.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Collections.Immutable.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Memory.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.dll
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\FirebaseAdmin.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.pdb
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Api.Gax.Rest.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.pdb
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Auth.pdb
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Auth.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Core.pdb
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Google.Apis.Core.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\Newtonsoft.Json.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Buffers.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.CodeDom.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Collections.Immutable.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Memory.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Numerics.Vectors.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Encodings.Web.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Text.Json.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\bin\Debug\System.ValueTuple.xml
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.AssemblyReference.cache
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.csproj.CoreCompileInputs.cache
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerA.1BF1959A.Up2Date
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.exe
+D:\Atlanta\Listner\BroadcastService\BroadcastService\BengalServiceForLocal\service\TrackerAlertNotifications\obj\Debug\TrackerAlertNotifications.pdb

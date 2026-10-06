@@ -1,0 +1,32 @@
+06-10-2026 14:46:28: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 01 Oct 2026 has been Approved. - Notification Sent
+06-10-2026 14:46:47: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 01 Oct 2026 has been Approved. - Notification Sent
+06-10-2026 14:46:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 01 Oct 2026 has been Approved. - Notification Sent
+06-10-2026 14:46:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 01 Oct 2026 has been Approved. - Notification Sent
+06-10-2026 14:46:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. Remark: test - Notification Sent
+06-10-2026 14:46:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Approved. Remark: approved - Notification Sent
+06-10-2026 14:46:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. - Notification Sent
+06-10-2026 14:46:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Approved. Remark: approved - Notification Sent
+06-10-2026 14:46:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. - Notification Sent
+06-10-2026 14:46:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. Remark: test - Notification Sent
+06-10-2026 14:46:51: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 08 Oct 2026 has been Approved. Remark: test response - Notification Sent
+06-10-2026 14:46:52: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. Remark: test - Notification Sent
+06-10-2026 14:46:52: 57310: SchoolBuddy: Leave request for Gaurav sharma dated 22 Oct 2026 has been Rejected. - Notification Sent
+06-10-2026 14:46:52: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 08 Oct 2026 has been Approved. Remark: test response - Notification Sent
+06-10-2026 14:46:52: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 06 Oct 2026 has been Rejected. Remark: exam - Notification Sent
+06-10-2026 14:46:54: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 06 Oct 2026 has been Rejected. Remark: exam - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 01 Oct 2026 has been Approved. - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 01 Oct 2026 has been Approved. - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. Remark: test - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 01 Oct 2026 has been Approved. - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Approved. Remark: approved - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. Remark: test - Notification Sent
+06-10-2026 14:50:49: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. Remark: test - Notification Sent
+06-10-2026 14:50:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Approved. Remark: approved - Notification Sent
+06-10-2026 14:50:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. - Notification Sent
+06-10-2026 14:50:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 08 Oct 2026 has been Approved. Remark: test response - Notification Sent
+06-10-2026 14:50:50: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 06 Oct 2026 has been Rejected. Remark: exam - Notification Sent
+06-10-2026 14:50:51: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 10 Oct 2026 has been Rejected. Remark: test - Notification Sent
+06-10-2026 14:50:51: 57310: SchoolBuddy: Leave request for Gaurav sharma dated 22 Oct 2026 has been Rejected. - Notification Sent
+06-10-2026 14:50:51: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 08 Oct 2026 has been Approved. Remark: test response - Notification Sent
+06-10-2026 14:50:51: 40587: SchoolBuddy: Leave request for Chirag 11 March dated 06 Oct 2026 has been Rejected. Remark: exam - Notification Sent

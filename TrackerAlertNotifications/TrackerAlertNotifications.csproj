@@ -163,6 +163,7 @@
     <Compile Include="custom_alerts.cs" />
     <Compile Include="General.cs" />
     <Compile Include="input_alerts.cs" />
+    <Compile Include="leaverequest.cs" />
     <Compile Include="Program.cs">
       <SubType>Component</SubType>
     </Compile>

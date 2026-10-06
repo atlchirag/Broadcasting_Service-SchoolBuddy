@@ -1,0 +1,2 @@
+06-10-2026 14:46:51: Notification Error: 57310: SchoolBuddy: Leave request for Gaurav sharma dated 22 Oct 2026 has been Rejected. - NotRegistered
+06-10-2026 14:50:50: Notification Error: 57310: SchoolBuddy: Leave request for Gaurav sharma dated 22 Oct 2026 has been Rejected. - NotRegistered

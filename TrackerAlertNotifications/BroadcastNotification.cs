@@ -32,6 +32,9 @@ namespace BroadcastService
                         LogBroadcast(msg.msgId, msg.userId, msg.routeId, msg.message);
                         MarkMessageDone(msg.msgId);
                     }
+
+                    leaverequest.GetLeaveMessages();
+
                 }
                 catch (Exception ex)
                 {

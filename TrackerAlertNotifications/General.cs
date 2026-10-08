@@ -24,20 +24,7 @@ namespace TrackerAlertNotifications
 {
     public class General
     {
-        
-       // public static readonly string connectionString = "Data Source={server};Initial Catalog={catalog};User ID={id};Password={password};Max Pool Size=32767;TrustServerCertificate=True;";
-        //public static readonly string connectionString = "Data Source=45.113.189.23;Initial Catalog=newtrack;User ID=newtrack;Password=55hD&44m7E3jnd; Max Pool Size=32767";
-
-        // public static readonly string connectionString = "Data Source=10.30.20.23;Initial Catalog=newtrack;User ID=newtrack;Password=55hD&44m7E3jnd; Max Pool Size=32767";
-
-        //public static readonly string connectionString = "Server=DESKTOP-LT37LBQ\\MSSQLSERVER01 ; database=newtrack;Integrated Security=true;";
-
-        //public static readonly string connectionString = "Data Source=103.108.12.184,15433;Initial Catalog=atltracking;User ID=newtrack;Password=55hD&44m7E3jnd;Max Pool Size=32767;TrustServerCertificate=True;";
-
-        //public static readonly string connectionString = "Data Source=103.108.12.184,15433;Initial Catalog=atltracking;User ID=newtrack;Password=55hD&44m7E3jnd;Max Pool Size=32767;TrustServerCertificate=True;";
-
-        public static readonly string connectionString = "Data Source=192.168.23.131,15433;Initial Catalog=atltracking;User ID=newtrack;Password=55hD&44m7E3jnd;Max Pool Size=32767;TrustServerCertificate=True;";
-
+ public static readonly string connectionString ="";
         // ✅ Execute INSERT, UPDATE, DELETE Queries
         public static void DML(string query)
         {
